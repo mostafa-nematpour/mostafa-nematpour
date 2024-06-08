@@ -5,5 +5,5 @@
 
 
 ```math
-\ce{$&#x5C;unicode[goombafont; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: auto;  object-fit: cover; background-size: cover !important; width: 100vw; opacity: 0.5; background: url('https://github.com/mostafa-nematpour/mostafa-nematpour/blob/main/bg.png?raw=tru');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: auto;  object-fit: cover; background-size: cover ; width: 100vw; opacity: 0.5; background: url('https://github.com/mostafa-nematpour/mostafa-nematpour/blob/main/bg.png?raw=tru');]{x0000}$}
 ```
